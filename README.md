@@ -1,17 +1,14 @@
-# coronavirus_restapi_tracker_app
 
-A new Flutter project.
+# Coronavirus REST API Tracker App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Note about files in .gitignore
 
-A few resources to get you started if this is your first Flutter project:
+The following files contain API keys and are not included in the repository:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- `.vscode/settings.json`
+- `lib/app/services/api_keys.dart`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Coronavirus-Tracker
+When cloning this project, make sure to define your local copies
+
+### [License: MIT](LICENSE.md)  
